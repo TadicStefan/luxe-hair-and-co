@@ -1,0 +1,6 @@
+{
+  "name": "Luxe Hair & Co.",
+  "description": "Premium, luxury hair salon landing page and appointment booking system, styled with gold and dark aesthetics, sleek animations, stylist portfolios, reviews, and interactive consultation tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
